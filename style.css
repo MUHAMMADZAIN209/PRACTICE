@@ -1,0 +1,179 @@
+    body{
+        background-color: tomato;
+    }
+    #d1{
+        background-color: white;
+        height: 70px;
+        width: 1300px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+        border-radius: 7px;
+        padding: 5px;
+    }
+    #d2{
+        display: inline-block;
+        margin: 6.5px;
+        background-color: pink;
+        height: 50px;
+        width: 800px;
+        margin-left: 5px;
+        margin-bottom: ;
+        border: black solid;
+        border-radius: 3px;
+    }
+    #bt1{
+        background: red;
+        margin: 8px;
+        padding: 2px;
+        
+        width: 100px;
+        height: 35px;
+        
+        
+        border: 1px solid black ;
+         
+    }
+    #bt2{
+        background: red;
+        margin: 8px;
+        padding: 2px;
+        
+        width: 100px;
+        height: 35px;
+        
+        
+        border: 1px solid black ;
+         
+    }
+    #bt3{
+        background: red;
+        margin: 8px;
+        padding: 2px;
+        
+        width: 100px;
+        height: 35px;
+        
+        
+        border: 1px solid black ;
+         
+    }
+    #d3{
+        display: inline-block;
+        background-color: pink;
+        height: 50px;
+        width: 300px;
+        margin-left: 5px;
+        margin-bottom: 15px;
+        border: black solid;
+        border-radius: 3px;
+    }
+    #bt4{
+        background: red;
+        margin: 8px;
+        padding: 2px;
+        
+        width: 100px;
+        height: 35px;
+        
+        
+        border: 1px solid black ;
+         
+    }
+   #bt5{
+       background: red;
+    margin: 8px;
+    padding: 2px;
+    background-color: solid red ;
+    width: 100px;
+    height: 35px;
+    
+    
+    border: 1px solid black ;
+     
+   }
+    #box{
+        border: 1px solid black;
+        width: 90%;
+        margin-top: 2%;
+        padding: 8px;
+        margin-left:1%;
+        
+    }
+    #box1{
+        background-color: green;
+        
+        width: 1px;
+        padding: 150px; 
+        border-radius: 50%;
+        margin-left: %;
+        float:left;
+   
+    }
+    #box2{
+        background-color: green;
+        width: 1px;
+        padding: 140px; 
+        border-radius: 50%;
+        margin-left: 13%;
+        float:left;
+    }
+    #box3{
+        background-color: green;
+        width: 1px;
+        padding: 150px; 
+        border-radius: 50%;
+        margin-left:75%;
+    }
+    #heading{
+        border: 1px solid black;
+        margin-top: 1%;
+        width: 30%;
+      
+        float:left;
+        
+         
+    }
+    #h1{
+      margin-top: 1px;
+    }
+    #para{
+        
+ width: 100%;
+ margin-top: 5rem;
+ 
+    }
+    #heading2{
+        border: 1px solid black;
+        width: 30%;
+        margin-top: 1%;
+        margin-left: 50%;
+        
+    }
+    #h2{
+        margin-top:1px;
+    }
+
+#para2{
+        width: 100%;
+        margin-top: 5rem;
+        
+    }
+    #text{
+        background-color: rgb(7, 253, 253);
+        border: 1px black;
+        margin-top: 3px;
+        padding: 3%;
+    }
+    #tx2{
+        text-align: right;
+        margin-right: 5%;
+    }
+    #tx3{
+        margin-top: -2%;
+        text-align: right;
+        margin-right: 4%;
+    }
+    #tx4{
+        text-align: right;
+        margin-top: -3.5%;
+    }
